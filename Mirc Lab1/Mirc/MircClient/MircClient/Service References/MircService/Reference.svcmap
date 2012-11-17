@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="256f7201-96d1-472f-86f3-cb166830ef82" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:4271/MircService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MircService.disco" MetadataType="Disco" ID="2ceda8bc-65f8-446a-8e6a-4c096869582a" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?disco" />
+    <MetadataFile FileName="MircService.xsd" MetadataType="Schema" ID="38aa94d0-3b83-4c74-912f-c4bdbb5fb5d5" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MircService1.xsd" MetadataType="Schema" ID="a6c3af06-344b-4254-a311-8f9f5167218c" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MircService2.xsd" MetadataType="Schema" ID="f5c38ba6-716d-4975-beca-a0629edc84bd" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?xsd=xsd3" />
+    <MetadataFile FileName="MircService3.xsd" MetadataType="Schema" ID="6ceb4587-c452-4980-9f5e-510f86897ff0" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MircService.wsdl" MetadataType="Wsdl" ID="78c7a410-c50d-480d-98dc-1c6d6785231b" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

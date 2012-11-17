@@ -1,0 +1,6 @@
+D:\Hackathon\Charming Apps\Contribute on MobilePay\MircClient\MircClient\bin\Debug\MircClient.exe.config
+D:\Hackathon\Charming Apps\Contribute on MobilePay\MircClient\MircClient\bin\Debug\MircClient.exe
+D:\Hackathon\Charming Apps\Contribute on MobilePay\MircClient\MircClient\bin\Debug\MircClient.pdb
+D:\Hackathon\Charming Apps\Contribute on MobilePay\MircClient\MircClient\obj\Debug\MircClient.csprojResolveAssemblyReference.cache
+D:\Hackathon\Charming Apps\Contribute on MobilePay\MircClient\MircClient\obj\Debug\MircClient.exe
+D:\Hackathon\Charming Apps\Contribute on MobilePay\MircClient\MircClient\obj\Debug\MircClient.pdb
