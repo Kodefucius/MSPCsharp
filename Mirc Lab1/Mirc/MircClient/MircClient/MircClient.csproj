@@ -53,17 +53,17 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Service References\MircService\MircService.wsdl" />
-    <None Include="Service References\MircService\MircService.xsd">
+    <None Include="Service References\MircService\MircService1.wsdl" />
+    <None Include="Service References\MircService\MircService4.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\MircService\MircService1.xsd">
+    <None Include="Service References\MircService\MircService41.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\MircService\MircService2.xsd">
+    <None Include="Service References\MircService\MircService42.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\MircService\MircService3.xsd">
+    <None Include="Service References\MircService\MircService43.xsd">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
@@ -72,9 +72,6 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadataStorage Include="Service References\MircService\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\MircService\MircService.disco" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Service References\MircService\configuration91.svcinfo" />
@@ -87,6 +84,9 @@
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MircService\MircService1.disco" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

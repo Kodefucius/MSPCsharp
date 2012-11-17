@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SavedWcfConfigurationInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="9.1" CheckSum="2a8fkt7KdY2qEl8ClhS9rbg03js=">
+<SavedWcfConfigurationInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="9.1" CheckSum="yPuDFciMAsmhUxoPJYDc1+BMOZ0=">
   <bindingConfigurations>
     <bindingConfiguration bindingType="basicHttpBinding" name="BasicHttpBinding_IMircService">
       <properties>
@@ -112,10 +112,10 @@
     </bindingConfiguration>
   </bindingConfigurations>
   <endpoints>
-    <endpoint name="BasicHttpBinding_IMircService" contract="MircService.IMircService" bindingType="basicHttpBinding" address="http://localhost:4271/MircService.svc" bindingConfiguration="BasicHttpBinding_IMircService">
+    <endpoint name="BasicHttpBinding_IMircService" contract="MircService.IMircService" bindingType="basicHttpBinding" address="http://mircservice.cloudapp.net/MircService.svc" bindingConfiguration="BasicHttpBinding_IMircService">
       <properties>
         <property path="/address" isComplexType="false" isExplicitlyDefined="true" clrType="System.Uri, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-          <serializedValue>http://localhost:4271/MircService.svc</serializedValue>
+          <serializedValue>http://mircservice.cloudapp.net/MircService.svc</serializedValue>
         </property>
         <property path="/behaviorConfiguration" isComplexType="false" isExplicitlyDefined="false" clrType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
           <serializedValue />

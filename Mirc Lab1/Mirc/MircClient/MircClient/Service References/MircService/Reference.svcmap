@@ -19,15 +19,15 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost:4271/MircService.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://mircservice.cloudapp.net/MircService.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="MircService.disco" MetadataType="Disco" ID="2ceda8bc-65f8-446a-8e6a-4c096869582a" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?disco" />
-    <MetadataFile FileName="MircService.xsd" MetadataType="Schema" ID="38aa94d0-3b83-4c74-912f-c4bdbb5fb5d5" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?xsd=xsd1" />
-    <MetadataFile FileName="MircService1.xsd" MetadataType="Schema" ID="a6c3af06-344b-4254-a311-8f9f5167218c" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?xsd=xsd0" />
-    <MetadataFile FileName="MircService2.xsd" MetadataType="Schema" ID="f5c38ba6-716d-4975-beca-a0629edc84bd" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?xsd=xsd3" />
-    <MetadataFile FileName="MircService3.xsd" MetadataType="Schema" ID="6ceb4587-c452-4980-9f5e-510f86897ff0" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?xsd=xsd2" />
-    <MetadataFile FileName="MircService.wsdl" MetadataType="Wsdl" ID="78c7a410-c50d-480d-98dc-1c6d6785231b" SourceId="1" SourceUrl="http://localhost:4271/MircService.svc?wsdl" />
+    <MetadataFile FileName="MircService1.disco" MetadataType="Disco" ID="060d5c5c-7655-4157-9123-7efef7bcaa2e" SourceId="1" SourceUrl="http://mircservice.cloudapp.net/MircService.svc?disco" />
+    <MetadataFile FileName="MircService4.xsd" MetadataType="Schema" ID="046282fe-7da2-4cb8-97f5-be8578a88616" SourceId="1" SourceUrl="http://mircservice.cloudapp.net/MircService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MircService41.xsd" MetadataType="Schema" ID="b548d42d-016c-4325-bf81-1b474630e4c1" SourceId="1" SourceUrl="http://mircservice.cloudapp.net/MircService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MircService42.xsd" MetadataType="Schema" ID="7cbf374a-42b3-4c54-b1c5-e929e59202f4" SourceId="1" SourceUrl="http://mircservice.cloudapp.net/MircService.svc?xsd=xsd3" />
+    <MetadataFile FileName="MircService1.wsdl" MetadataType="Wsdl" ID="89caacc6-000d-44a5-81c1-bebdb3dd262f" SourceId="1" SourceUrl="http://mircservice.cloudapp.net/MircService.svc?wsdl" />
+    <MetadataFile FileName="MircService43.xsd" MetadataType="Schema" ID="2d3234bc-42c3-4932-8126-8ebfc450c016" SourceId="1" SourceUrl="http://mircservice.cloudapp.net/MircService.svc?xsd=xsd0" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

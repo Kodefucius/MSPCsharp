@@ -27,7 +27,7 @@ namespace MircClient
         {
             while(true)
             {
-                Console.Clear();
+               Console.Clear();
                 string[] messages = _mircServiceClient.GetMessages();
                 foreach (var message in messages)
                 {
