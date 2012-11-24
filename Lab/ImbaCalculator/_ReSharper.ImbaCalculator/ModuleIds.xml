@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="E504A65A-FD7C-4FFE-9933-F12633F3264D" ModuleId="ImbaCalculator" />
+  <Module PersistentId="9E06C8C3-688C-4AF1-9A8E-DC42F1D0465E" ModuleId="ImbaCalculatorTests" />
+  <Module PersistentId="E614BDC3-F7C2-430B-9076-24ACB8201303" ModuleId="PythonInteroperatingDemo" />
+  <Module PersistentId="F5EB6F1C-1D27-4206-B2F7-395ACA1D41F7" ModuleId="Test" />
+</Modules>

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImbaCalculator", "ImbaCalculator\ImbaCalculator.csproj", "{E504A65A-FD7C-4FFE-9933-F12633F3264D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImbaCalculatorTests", "ImbaCalculatorTests\ImbaCalculatorTests.csproj", "{9E06C8C3-688C-4AF1-9A8E-DC42F1D0465E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythonInteroperatingDemo", "PythonInteroperatingDemo\PythonInteroperatingDemo.csproj", "{E614BDC3-F7C2-430B-9076-24ACB8201303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F5EB6F1C-1D27-4206-B2F7-395ACA1D41F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E504A65A-FD7C-4FFE-9933-F12633F3264D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E504A65A-FD7C-4FFE-9933-F12633F3264D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E504A65A-FD7C-4FFE-9933-F12633F3264D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E504A65A-FD7C-4FFE-9933-F12633F3264D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E06C8C3-688C-4AF1-9A8E-DC42F1D0465E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E06C8C3-688C-4AF1-9A8E-DC42F1D0465E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E06C8C3-688C-4AF1-9A8E-DC42F1D0465E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E06C8C3-688C-4AF1-9A8E-DC42F1D0465E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E614BDC3-F7C2-430B-9076-24ACB8201303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E614BDC3-F7C2-430B-9076-24ACB8201303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E614BDC3-F7C2-430B-9076-24ACB8201303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E614BDC3-F7C2-430B-9076-24ACB8201303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5EB6F1C-1D27-4206-B2F7-395ACA1D41F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EB6F1C-1D27-4206-B2F7-395ACA1D41F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EB6F1C-1D27-4206-B2F7-395ACA1D41F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EB6F1C-1D27-4206-B2F7-395ACA1D41F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

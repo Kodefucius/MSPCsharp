@@ -1,0 +1,14 @@
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\PythonInteroperatingDemo.dll
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\PythonInteroperatingDemo.pdb
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\IronPython.dll
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\Microsoft.Scripting.dll
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\Microsoft.Dynamic.dll
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\IronPython.xml
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\Microsoft.Scripting.xml
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\Microsoft.Dynamic.xml
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\obj\Debug\PythonInteroperatingDemo.csprojResolveAssemblyReference.cache
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\obj\Debug\PythonInteroperatingDemo.dll
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\obj\Debug\PythonInteroperatingDemo.pdb
+D:\MSP\Lab\ImbaCalculator\PythonInteroperatingDemo\bin\Debug\script.py
